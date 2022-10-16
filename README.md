@@ -1,3 +1,13 @@
+# sp：Code sources of baseline methods.
+Random Forest （https://scikit-learn.org)  
+LSTM (https://pytorch.org/docs/stable/nn.html)   
+TCN (https://github.com/charlotte-pel/temporalCNN)   
+Transformer (https://github.com/dl4sits/BreizhCrops)   
+Bi-convGRU (https://github.com/TUM-LMF/MTLCC)  
+U-Net (https://github.com/roserustowicz/crop-type-mapping)  
+U-Net+convLSTM (https://github.com/roserustowicz/crop-type-mapping)  
+
+
 # 1.Deep-Cropland-CD
 [2022_IEEE_深度学习农田变化检测_A CNN-Transformer Network With Multiscale Context Aggregation for Fine-Grained Cropland Change Detection](https://ieeexplore.ieee.org/document/9780164/keywords#keywords)  
 (https://github.com/paperoff/CropLand-CD.git)  
@@ -36,3 +46,23 @@ MSCANet 首先使用 CNN 主干从双时相图像中捕获多尺度特征；然�
 3. SOS生长季开始/EOS生长季结束 提取方法：拐点法、阈值法
 第三部分：方法
 步骤：1.地面和光学 SAR 卫星数据获取；2.时间序列指数计算，包括NDVI、GCC_s、VV、VH、GCC_c；3.利用从PhenoCam中提取的参考物候参数（如SOS、EOS）训练用于卫星物候提取的空间感知深度学习（Deep-CroP）模型；4.使用训练好的 Deep-Crop 模型进行精细的作物物候跟踪和映射。
+
+
+
+
+
+# 3.deep-crop-classification-segmentation
+[A Sentinel-2 multi-year, multi-country benchmark dataset for crop classification and segmentation with deep learning](https://arxiv.org/abs/2204.00951v2)  
+(https://github.com/paperoff/deep-crop-classification-segmentation)  
+
+# 4. deep-time series-crop classification
+[Crop mapping from image time series: Deep learning with multi-scale label hierarchies](https://www.sciencedirect.com/science/article/pii/S0034425721003230)  
+（https://github.com/paperoff/multi-stage-convSTAR-network）  
+层级分类  
+![image](https://user-images.githubusercontent.com/62208710/196043352-6033015c-861c-44e4-975a-fa84fb0fd863.png)  
+分层卷积循环网络  
+![image](https://user-images.githubusercontent.com/62208710/196043411-d5259249-fbbf-4f46-9edf-7b61be9efdbc.png)
+
+
+
+
