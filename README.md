@@ -1,5 +1,5 @@
 # 1.Deep-Cropland-CD
-[A CNN-Transformer Network With Multiscale Context Aggregation for Fine-Grained Cropland Change Detection](https://ieeexplore.ieee.org/document/9780164/keywords#keywords)  
+[2022_IEEE_深度学习农田变化检测_A CNN-Transformer Network With Multiscale Context Aggregation for Fine-Grained Cropland Change Detection](https://ieeexplore.ieee.org/document/9780164/keywords#keywords)  
 (https://github.com/paperoff/CropLand-CD.git)  
 CNN+transformer （MSCANet）  
 ![image](https://user-images.githubusercontent.com/62208710/196014581-e12c7b2c-3780-4079-878a-541d456a2971.png)  
