@@ -1,6 +1,6 @@
-# deep-cropland-detection
-# [1.Cropland-CD](https://github.com/paperoff/CropLand-CD.git)
+# 1.Deep-Cropland-CD
 [A CNN-Transformer Network With Multiscale Context Aggregation for Fine-Grained Cropland Change Detection](https://ieeexplore.ieee.org/document/9780164/keywords#keywords)  
+(https://github.com/paperoff/CropLand-CD.git)  
 CNN+transformer （MSCANet）  
 ![image](https://user-images.githubusercontent.com/62208710/196014581-e12c7b2c-3780-4079-878a-541d456a2971.png)  
 
@@ -21,4 +21,6 @@ MSCANet 首先使用 CNN 主干从双时相图像中捕获多尺度特征；然�
 第四部分：实验和分析  
 第五部分：总结
 
-#[2.]
+# 2.Deep learning,Optical-SAR,time-series,Crop phenology
+[Spatial-aware SAR-optical time-series deep integration for crop phenology tracking](https://www.sciencedirect.com/science/article/pii/S0034425722001602?ref=pdf_download&fr=RR-2&rr=75adbfa509c549f0)  
+
